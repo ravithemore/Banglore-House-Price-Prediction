@@ -26,4 +26,4 @@ You can install the required packages using the following command:
 ```bash
 pip install -r requirements.txt
 ```
-Made by [Sejal Shrivastava](https://sejalshrivastava.netlify.app/)
+Made by [Ravi M Damor](https://ravithemore.netlify.app/)
